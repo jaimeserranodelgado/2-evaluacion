@@ -44,7 +44,7 @@ int main(){
             printf("\nTrasladada la letra %c",*(*(reyes+cont)+cont1));
         }
     }
-    //Comprobación
+    //ComprobaciÃ³n
     cout<<endl;
     cout<<"***********************************"<<endl;
     cout<<"*        The magic Kings           *"<<endl;
@@ -62,7 +62,7 @@ int main(){
 			}
 		}
 	}	
-	    //Comprobación
+	    //ComprobaciÃ³n
     cout<<endl;
     cout<<"***********************************"<<endl;
     cout<<"*        The magic Kings   sorted *"<<endl;
