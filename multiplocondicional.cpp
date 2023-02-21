@@ -1,6 +1,6 @@
-//Instrucciones b·sicas
+//Instrucciones b√°sicas
 //condicional multiple
-#include<iostream>//LibrerÌa de cabecera
+#include<iostream>//Librer√≠a de cabecera
 using namespace std;
 
 int main(){
