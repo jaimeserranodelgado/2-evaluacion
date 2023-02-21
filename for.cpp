@@ -1,4 +1,4 @@
-//Instrucciones b·sicas
+//Instrucciones b√°sicas
 //condicional multiple
 // for
 using namespace std;
